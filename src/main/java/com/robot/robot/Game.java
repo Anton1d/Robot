@@ -9,6 +9,6 @@ public class Game {
     List<Jeton> jetons;
     List<Map> map;
     public static void game(){
-
+        Map.creationmap();
     }
 }
